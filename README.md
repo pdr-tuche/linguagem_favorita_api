@@ -14,9 +14,10 @@ git clone git@github.com:pdr-tuche/linguagem_favorita_api.git
 git clone https://github.com/pdr-tuche/linguagem_favorita_api.git
 ```
 
-2. criar e ativar ambiente virtual:
+2. entrar no diretorio do projeto e criar e ativar ambiente virtual:
 > ambiente linux
 ```bash
+cd linguagem_favorita_api
 python3 -m venv venv
 source venv/bin/activate
 ```
